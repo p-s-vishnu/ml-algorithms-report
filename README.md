@@ -1,4 +1,4 @@
-# Analysis of algorithms
+# Analysis of machine learning algorithms
 
 ## Regression
 
