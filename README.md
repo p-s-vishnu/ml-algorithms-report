@@ -14,10 +14,10 @@
 
 ## Classification
 
-| Algorithms          | Cost function | Objective function | Hyperparameters | parameters | How to regularize |
-| ------------------- | ------------- | ------------------ | :-------------- | ---------- | ----------------- |
-| Logistic regression |               |                    |                 |            |                   |
-|                     |               |                    |                 |            |                   |
-|                     |               |                    |                 |            |                   |
-|                     |               |                    |                 |            |                   |
-|                     |               |                    |                 |            |                   |
+| Algorithms          | Cost function    | Objective function                              | Hyperparameters                            | parameters        | How to regularize                 |
+| ------------------- | ---------------- | ----------------------------------------------- | :----------------------------------------- | ----------------- | --------------------------------- |
+| Logistic regression | Sigmoid function | minimizing cost function using Gradient Descent | n_jobs,Penalty,Dual,fit_intrecept,max_iter | Beta Coefficients | By using L1 and L2 Regularization |
+|                     |                  |                                                 |                                            |                   |                                   |
+|                     |                  |                                                 |                                            |                   |                                   |
+|                     |                  |                                                 |                                            |                   |                                   |
+|                     |                  |                                                 |                                            |                   |                                   |
