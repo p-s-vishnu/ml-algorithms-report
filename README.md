@@ -14,7 +14,7 @@
 ## Regression
 
 | Algorithms        | Cost function | Objective function | Hyperparameters | parameters | How to regularize | Others
-| ----------------- | ------------- | ------------------ | :-------------- | ---------- | ----------------- |
+| ----------------- | ------------- | ------------------ | :-------------- | ---------- | ----------------- | -----------------
 | Linear regression |               |                    |                 |            |                   |
 |                   |               |                    |                 |            |                   |
 |                   |               |                    |                 |            |                   |
